@@ -1,0 +1,29 @@
+﻿{
+	"version": 1545857193,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/logo_clanwar-sheet0.png",
+		"images/dsfff-sheet0.png",
+		"images/screen-sheet0.png",
+		"images/settings-sheet0.png",
+		"images/sound-sheet0.png",
+		"images/sprite21-sheet0.png",
+		"images/sprite10-sheet0.png",
+		"images/sprite11-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"images/sprite15-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"Photon-Javascript_SDK.min.js",
+		"xd_connection.js"
+	]
+}
